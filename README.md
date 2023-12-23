@@ -1,0 +1,2 @@
+# automanager
+fooa
